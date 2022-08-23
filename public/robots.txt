@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /core_invapp/
+Disallow: /installer/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /email/
+Disallow: /refer
+Disallow: /invite
